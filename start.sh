@@ -1,2 +1,2 @@
-docker build -t elixir-tutorial:latest . && \
-  docker run -it --rm -v ${PWD}/elixir-tutorial:/elixir-tutorial elixir-tutorial:latest /bin/bash
+docker build -t elixir_tutorial:latest . && \
+  docker run -it --rm -v ${PWD}/elixir_tutorial:/elixir_tutorial elixir_tutorial:latest /bin/bash

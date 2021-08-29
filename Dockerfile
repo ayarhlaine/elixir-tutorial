@@ -1,3 +1,3 @@
 FROM elixir:1.12
 
-WORKDIR /elixir-tutorial
+WORKDIR /elixir_tutorial
