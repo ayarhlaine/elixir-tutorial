@@ -1,4 +1,4 @@
-defmodule ElixirTutorial.PatternMatching do
+defmodule PatternMatching do
   @moduledoc """
   Maintain basic pattern matching features!
   """
@@ -30,6 +30,6 @@ defmodule ElixirTutorial.PatternMatching do
   end
 end
 
-ElixirTutorial.PatternMatching.match_tuples()
-ElixirTutorial.PatternMatching.match_maps()
-ElixirTutorial.PatternMatching.match_list()
+PatternMatching.match_tuples()
+PatternMatching.match_maps()
+PatternMatching.match_list()
